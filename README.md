@@ -1,6 +1,6 @@
 # The Devs Department
 
-Bem-vindo ao repositório oficial da **The Devs Department**! Este projeto está sendo desenvolvido como parte do trabalho do 2º Semestre de **DSM** na **Fatec São José dos Campos**.
+Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sendo desenvolvido como parte do trabalho do 2º Semestre de DSM na Fatec São José dos Campos, em parceria com a empresa Helpnei.**.
 
 > **Projeto SCRUM**: Foco em proatividade, autonomia, colaboração e entrega de resultados.
 
@@ -16,7 +16,7 @@ Bem-vindo ao repositório oficial da **The Devs Department**! Este projeto está
 - [Equipe](#equipe)
 
 ## 📝 Sobre o Projeto
-O projeto consiste no desenvolvimento de um **Dashboard de Indicadores** para monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O objetivo é fornecer uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
+O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
 
 ## 🎯 Objetivos
 O projeto integra conhecimentos aprendidos em sala, incluindo:
@@ -42,7 +42,7 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 |------------|------------|--------|
 | **Alta**   | Como administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | Sprint 1 |
 | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários, lojas e transações. | Sprint 1 |
-| **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | Sprint 1 |
+| **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | Sprint 3 |
 | **Média**  | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | Sprint 2 |
 | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | Sprint 2 |
 | **Média**  | Como patrocinador, quero ver o volume de transações realizadas dentro da plataforma para analisar a movimentação econômica. | Sprint 2 |
@@ -72,31 +72,36 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 - **Ajustes finais**.
 
 ## ✅ Definition of Ready (DoR)
+
 Para que uma tarefa esteja pronta para ser desenvolvida, os seguintes critérios devem ser atendidos:
 
 ### 1. Artefatos Necessários
-- **Briefing Estruturado**: Contexto e objetivos da funcionalidade documentados.
-- **User Story Detalhada**: Descrição clara no formato "Como [usuário], quero [ação] para que [benefício]."
-- **Critérios de Aceitação**: Definição clara do que deve ser entregue para que a User Story seja aceita.
-- **Wireframes e Protótipos**: Layouts definidos e aprovados para funcionalidades visuais.
-- **Modelos de Dados e Esquema do Banco**: Estrutura do banco de dados definida e aprovada.
-- **Regras de Negócio Documentadas**: Todas as regras de operação da funcionalidade descritas.
+- **Briefing Estruturado** – O contexto e os objetivos da API devem estar documentados.
+- **User Story detalhada** – A funcionalidade deve estar descrita no formato correto:  
+  *Como [usuário], quero [ação] para que [benefício].*
+- **Critérios de Aceitação** – Definição clara do que deve ser entregue para que a User Story seja aceita.
+- **Wireframes e Protótipos** – Se a funcionalidade envolver interação visual, os layouts devem estar definidos.
+- **Modelos de Dados e Esquema do Banco** – As tabelas, relacionamentos e estrutura do banco de dados devem estar definidos e aprovados.
+- **Regras de Negócio Documentadas** – Todas as regras de operação da funcionalidade devem estar descritas.
 
 ### 2. Regras Técnicas Definidas
-- **Endpoint bem especificado**: URL RESTful, método HTTP e formato JSON definidos.
-- **Tratamento de Erros**: Respostas esperadas para erros (ex: 400 Bad Request, 404 Not Found).
-- **Controle de Versionamento**: Versões da API definidas (ex: v1/usuarios).
-- **Performance e Eficiência**: Limites de requisição e otimização de tempo de resposta.
+- **Endpoint bem especificado**:
+  - URL RESTful definida (ex: `GET /usuarios/{id}`).
+  - Método HTTP correto (`GET`, `POST`, `PUT`, `DELETE`).
+  - Formato da requisição e resposta **JSON** especificado.
+- **Tratamento de Erros Definido** – Respostas esperadas para erros (`400 Bad Request`, `404 Not Found`, etc.).
+- **Controle de Versionamento** – Definir versões da API (exemplo: `v1/usuarios`).
+- **Performance e Eficiência** – Definir limites de requisição e evitar sobrecarga de dados.
 
 ### 3. Testes e Validação
-- **Cenários de Teste**: Casos normais e de exceção para validar a funcionalidade.
-- **Dados para Testes**: Dados de teste disponíveis no banco de dados.
-- **Plano de Testes de Integração**: Garantir que os endpoints funcionam com outros sistemas.
+- **Cenários de Teste Criados** – Casos normais e de exceção para validar a funcionalidade.
+- **Dados para Testes Disponíveis** – Exemplo: usuários de teste cadastrados no banco de dados.
+- **Plano de Testes de Integração** – Garantir que os endpoints funcionam bem com outros sistemas.
 
 ### 4. Aprovação e Alinhamento
-- **Revisão da Equipe**: A equipe de desenvolvimento e o Product Owner revisaram e aprovaram a funcionalidade.
-- **Estimativa de Esforço**: O item foi incluído no Sprint Backlog com estimativa de esforço definida.
-- **Compreensão do Escopo**: O desenvolvedor responsável compreendeu o escopo e tirou dúvidas.
+- A equipe de desenvolvimento e o Product Owner revisaram e concordam que a funcionalidade pode ser desenvolvida.
+- O item foi incluído no **Sprint Backlog** e tem estimativa de esforço definida.
+- O desenvolvedor responsável compreendeu o escopo da tarefa e tirou dúvidas antes de iniciar.
 
 ## **👥 Equipe**  
 
