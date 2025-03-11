@@ -38,17 +38,17 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 
 
 ## 📊 Product Backlog  
-| Ranking | Prioridade | User Story | Estimativa | Sprint |  
-|---------|------------|------------|------------|--------|  
-| **1**   | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários, lojas e transações. | **10**  | Sprint 1 |  
-| **2**   | **Alta**   | Como administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **6**   | Sprint 1 |  
-| **3**   | **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **9**   | Sprint 3 |  
-| **4**   | **Alta**   | Como administrador, quero um gráfico mostrando o engajamento e uso da plataforma, permitindo acompanhar tendências de crescimento. | **9**   | Sprint 3 |  
-| **5**   | **Média**  | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **6**   | Sprint 2 |  
-| **6**   | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **8**   | Sprint 2 |  
-| **7**   | **Média**  | Como patrocinador, quero ver o volume de transações realizadas dentro da plataforma para analisar a movimentação econômica. | **7**   | Sprint 2 |  
-| **8**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **4**   | Sprint 3 |  
-| **9**   | **Baixa**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **3**   | Sprint 3 |  
+| Ranking | Prioridade | User Story | Estimativa | Sprint | **Req. do Parceiro** |
+|---------|------------|------------|------------|--------|----------------------|
+| **1**   | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários, lojas e transações. | **10**  | Sprint 1 | RNF-02 |
+| **2**   | **Alta**   | Como administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **6**   | Sprint 1 | RF-01 |
+| **3**   | **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **9**   | Sprint 3 | RF-04 |
+| **4**   | **Alta**   | Como administrador, quero um gráfico mostrando o engajamento e uso da plataforma, permitindo acompanhar tendências de crescimento. | **9**   | Sprint 3 | RF-06 |
+| **5**   | **Média**  | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **6**   | Sprint 2 | RF-02 |
+| **6**   | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **8**   | Sprint 2 | RF-03 |
+| **7**   | **Média**  | Como patrocinador, quero ver o volume de transações realizadas dentro da plataforma para analisar a movimentação econômica. | **7**   | Sprint 2 | RF-04 |
+| **8**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **4**   | Sprint 3 | RNF-01 |
+| **9**   | **Baixa**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **3**   | Sprint 3 | RF-01 |
 
 
 
