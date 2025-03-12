@@ -1,0 +1,6 @@
+[submodule "Front"]
+	path = Front
+	url = https://github.com/the-devs-department/FRONT-END-HELPNEI
+[submodule "Back"]
+	path = Back
+	url = https://github.com/the-devs-department/BACK-END-HELPNEI
