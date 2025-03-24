@@ -15,10 +15,10 @@ Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sen
 - [Definition of Ready (DoR)](#definition-of-ready-dor)
 - [Equipe](#equipe)
 
-## 📝 Sobre o Projeto
+## 📝 Sobre o Projeto <a name="sobre-o-projeto"></a>
 O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
 
-## 🎯 Objetivos
+## 🎯 Objetivos <a name="objetivos"></a>
 O projeto integra conhecimentos aprendidos em sala, incluindo:
 
 - Metodologia ágil **SCRUM**
@@ -27,7 +27,7 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 - Design de interfaces
 - Integração de **APIs** e **Banco de Dados**
 
-## 🗓️ Cronograma das Sprints
+## 🗓️ Cronograma das Sprints <a name="cronograma-das-sprints"></a>
 | Sprint       | Previsão      | Status           |
 |--------------|---------------|------------------|
 | **Kick Off** | 24/02/2025 a 28/02/2025   | ✅ Concluído     |
@@ -37,21 +37,22 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 | **Feira de Soluções** | 29/05/2025       | ⏳ A fazer    |  
 
 
-## 📊 Product Backlog  
-| Prioridade | User Story | Estimativa | Sprint |  
-|------------|------------|------------|--------|  
-| **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários, lojas e transações. | **13**  | Sprint 1 |  
-| **Alta**   | Como administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **8**   | Sprint 1 |  
-| **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **13**  | Sprint 3 |  
-| **Alta**   | Como administrador, quero um gráfico mostrando o engajamento e uso da plataforma, permitindo acompanhar tendências de crescimento. | **13**  | Sprint 3 |  
-| **Média**  | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **8**   | Sprint 2 |  
-| **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **8**   | Sprint 2 |  
-| **Média**  | Como patrocinador, quero ver o volume de transações realizadas dentro da plataforma para analisar a movimentação econômica. | **8**   | Sprint 2 |  
-| **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **5**   | Sprint 3 |  
-| **Baixa**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **3**   | Sprint 3 |  
+## 📊 Product Backlog  <a name="product-backlog"></a>
+| Ranking | Prioridade | User Story | Estimativa (1-100) | Sprint | **Req. do Parceiro** |
+|---------|------------|------------|------------|--------|----------------------|
+| **1**   | **Alta**   | Como Administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **40**  | Sprint 1 | RF-01 |
+| **2**   | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60**   | Sprint 1 |RNF-02 |
+| **3**   | **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40**   | Sprint 3 | RF-04 |
+| **4**   | **Média**   | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40**   | Sprint 3 | RF-02 |
+| **5**   | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **40**   | Sprint 2 | RF-03 |
+| **6**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **85**   | Sprint 2 | RNF-01 |
+| **7**   | **Baixo**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45**   | Sprint 2 | RF-01 |
 
 
-## 📂 Sprint Backlog
+
+
+
+## 📂 Sprint Backlog <a name="sprint-backlog"></a>
 ### Sprint 1
 - Criação de **mockup**.
 - Desenvolvimento do **HTML/CSS responsivos**.
@@ -72,7 +73,7 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 - Melhoria de **performance** e tempo de carregamento.
 - **Ajustes finais**.
 
-## ✅ Definition of Ready (DoR)
+## ✅ Definition of Ready (DoR) <a name="definition-of-ready-dor"></a>
 
 Para que uma tarefa esteja pronta para ser desenvolvida, os seguintes critérios devem ser atendidos:
 
@@ -104,7 +105,7 @@ Para que uma tarefa esteja pronta para ser desenvolvida, os seguintes critérios
 - O item foi incluído no **Sprint Backlog** e tem estimativa de esforço definida.
 - O desenvolvedor responsável compreendeu o escopo da tarefa e tirou dúvidas antes de iniciar.
 
-## **👥 Equipe**  
+## **👥 Equipe** <a name="equipe"></a>
 
 | Função           | Nome                  | Links                                                                                                                                      |  
 |-------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|  
