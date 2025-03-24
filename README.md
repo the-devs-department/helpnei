@@ -18,7 +18,7 @@ Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sen
 ## 📝 Sobre o Projeto <a name="sobre-o-projeto"></a>
 O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
 
-## 🎯 Objetivos <a name="cronograma-das-sprints"></a>
+## 🎯 Objetivos <a name="objetivos"></a>
 O projeto integra conhecimentos aprendidos em sala, incluindo:
 
 - Metodologia ágil **SCRUM**
