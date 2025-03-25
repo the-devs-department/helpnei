@@ -43,10 +43,10 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 | **1**   | **Alta**   | Como Administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **40**  | Sprint 1 | RF-01 |
 | **2**   | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60**   | Sprint 1 |RNF-02 |
 | **3**   | **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40**   | Sprint 3 | RF-04 |
-| **4**   | **Média**   | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40**   | Sprint 3 | RF-02 |
+| **4**   | **Média**   | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40**   | Sprint 2 | RF-02 |
 | **5**   | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **40**   | Sprint 2 | RF-03 |
-| **6**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **85**   | Sprint 2 | RNF-01 |
-| **7**   | **Baixo**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45**   | Sprint 2 | RF-01 |
+| **6**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **85**   | Sprint 3 | RNF-01 |
+| **7**   | **Baixo**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45**   | Sprint 3 | RF-01 |
 
 
 
