@@ -31,22 +31,32 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 | Sprint       | Previsão      | Status           |
 |--------------|---------------|------------------|
 | **Kick Off** | 24/02/2025 a 28/02/2025   | ✅ Concluído     |
-| **Sprint 1** | 10/03/2025 a 30/03/2025   | 🔄 Em andamento |
+| **Sprint 1** | 10/03/2025 a 30/03/2025   | ✅ Concluído     |
 | **Sprint 2** | 07/04/2025 a 27/04/2025   | ⏳ A fazer       |
 | **Sprint 3** | 05/05/2025 a 25/05/2025   | ⏳ A fazer       |
-| **Feira de Soluções** | 29/05/2025       | ⏳ A fazer    |  
+| **Feira de Soluções** | 29/05/2025       | ⏳ A fazer       |  
 
 
 ## 📊 Product Backlog  <a name="product-backlog"></a>
+## 📋 Product Backlog <a name="product-backlog"></a>
+
 | Ranking | Prioridade | User Story | Estimativa (1-100) | Sprint | **Req. do Parceiro** |
-|---------|------------|------------|------------|--------|----------------------|
-| **1**   | **Alta**   | Como Administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **40**  | Sprint 1 | RF-01 |
-| **2**   | **Alta**   | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60**   | Sprint 1 |RNF-02 |
-| **3**   | **Alta**   | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40**   | Sprint 3 | RF-04 |
-| **4**   | **Média**   | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40**   | Sprint 2 | RF-02 |
-| **5**   | **Média**  | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **40**   | Sprint 2 | RF-03 |
-| **6**   | **Média**  | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **85**   | Sprint 3 | RNF-01 |
-| **7**   | **Baixo**  | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45**   | Sprint 3 | RF-01 |
+|---------|------------|------------|----------------|--------|---------------------|
+| **1** | **Alta** | Como Administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **40** | Sprint 1 | RF-01 |
+| **2** | **Alta** | Como Administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60** | Sprint 1 | RNF-02 |
+| **3** | **Média** | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40** | Sprint 2 | RF-02 |
+| **4** | **Média** | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **40** | Sprint 2 | RF-03 |
+| **5** | **Média** | Como usuário, quero acessar uma página onde posso visualizar e escolher entre diferentes empresas patrocinadoras, para selecionar aquela que mais se alinha ao meu perfil e interesses. | **40** | Sprint 2 | RF-04 |
+| **6** | **Alta** | Como usuário, quero preencher um formulário de inscrição com meus dados pessoais e socioeconômicos para participar do programa de patrocínio. | **35** | Sprint 2 | RF-05 |
+| **7** | **Alta** | Como usuário, quero visualizar uma lista de empresas patrocinadoras disponíveis para mim, incluindo logo e detalhes relevantes, para escolher a melhor opção. | **30** | Sprint 2 | RF-06 |
+| **8** | **Alta** | Como empresa patrocinadora, quero definir critérios para selecionar os usuários que desejo apoiar, para garantir que o patrocínio atenda ao meu público-alvo. | **45** | Sprint 2 | RF-07 |
+| **9** | **Baixa** | Como empresa patrocinadora, quero aplicar filtros como estado, idade, escolaridade e renda familiar para encontrar usuários compatíveis com o meu programa de patrocínio. | **45** | Sprint 3 | RF-08 |
+| **10** | **Alta** | Como administrador, quero aplicar filtros nos indicadores do dashboard, para visualizar dados específicos e facilitar a análise. | **45** | Sprint 3 | RF-09 |
+| **11** | **Média** | Como usuário, quero acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **40** | Sprint 3 | RNF-01 |
+| **12** | **Alta** | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40** | Sprint 3 | RF-10 |
+| **13** | **Alta** | Como administrador, quero entender o engajamento e o uso da plataforma, permitindo acompanhar tendências de crescimento. | **45** | Sprint 3 | RF-11 |
+| **14** | **Baixa** | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45** | Sprint 3 | RF-01 |
+
 
 
 
@@ -61,12 +71,16 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 - Conexão entre **Front-end** e **Backend**.
 
 ### Sprint 2
+- Criação do(s) novo(s) **Wireframe(s)**
+- Remodelagem do **Banco de Dados**
+- Desenvolvimento da(s) **nova(s) tela(s)**
 - Criação da **API Rest** para consulta de dados.
 - Conexão entre **Front-End** e **Banco de Dados** via API.
 - Criação de **gráficos básicos** para exibição de métricas.
 - Testes da **API**.
 
 ### Sprint 3
+- Implementação de **Filtros e Segmentações**
 - Refinamento do **Design**.
 - Melhoria da **responsividade** em diferentes dispositivos.
 - Criação do **Manual do Usuário**.
