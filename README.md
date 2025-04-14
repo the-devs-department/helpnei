@@ -46,7 +46,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 ------
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-[Visualizar Sprint Backlog](./docs/entrega/SprintBacklog-sprint2.pdf)
+[Visualizar Sprint Backlog](docs/sprints/sprint2/SprintBacklogS2.pdf)
 
 ------
 
