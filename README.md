@@ -1,6 +1,6 @@
 # The Devs Department
 
-Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sendo desenvolvido como parte do trabalho do 2º Semestre de DSM na Fatec São José dos Campos, em parceria com a empresa Helpnei.**.
+Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sendo desenvolvido como parte do trabalho do 2º Semestre de DSM na Fatec São José dos Campos, em parceria com a empresa **Helpnei**.
 
 > **Projeto SCRUM**: Foco em proatividade, autonomia, colaboração e entrega de resultados.
 
@@ -17,7 +17,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 | Entrega              | Período               | Status         | Relatório                 |
 |----------------------|-----------------------|----------------|---------------------------|
 | **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
-| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)   |
+| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint1/Sprint1.md)   |
 | **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
 | **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
 | **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
