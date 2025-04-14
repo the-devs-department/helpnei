@@ -90,7 +90,7 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
 ## 👥 Equipe <a name="equipe"></a>
 
 <div align="center">
-  <img src="./foto-grupo.jpeg" alt="Foto da Equipe The Devs Department" style="border-radius: 8px;">
+  <img src="./GrupoFoto.jpeg" alt="Foto da Equipe The Devs Department" style="border-radius: 8px;">
 </div>
 
 | Função           | Nome                  | Links                                                                                                                                      |  
