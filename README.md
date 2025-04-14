@@ -6,39 +6,25 @@ Bem-vindo ao repositório oficial da The Devs Department! Este projeto está sen
 
 📌 **Nosso [contato](#equipe)** está no final do README!  
 
-## 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Objetivos](#objetivos)
-- [Cronograma das Sprints](#cronograma-das-sprints)
-- [Product Backlog](#product-backlog)
-- [Sprint Backlog](#sprint-backlog)
-- [Definition of Ready (DoR)](#definition-of-ready-dor)
-- [Equipe](#equipe)
+## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
+O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a Helpnei, que centraliza e exibe, de forma ágil e interativa, dados essenciais relativos a lojas, usuários e transações. Com uma interface intuitiva e responsiva, serão apresentados indicadores como o número de lojas criadas, usuários impactados e a distribuição geográfica, permitindo o acompanhamento do desempenho da plataforma.
 
-## 📝 Sobre o Projeto <a name="sobre-o-projeto"></a>
-O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
+Além disso, o dashboard incorpora recursos de filtragem por período e localização, com gráficos dinâmicos e mapas interativos que possibilitam análises comparativas e detalhadas. Essa solução simplifica a visualização dos dados, facilita a comunicação com parceiros e patrocinadores, e apoiando a tomada de decisões estratégicas para o crescimento da empresa ou até mesmo para a Helpnei identificar quais empresas estão trazendo maior expansão para a plataforma.
 
-## 🎯 Objetivos <a name="objetivos"></a>
-O projeto integra conhecimentos aprendidos em sala, incluindo:
+---
 
-- Metodologia ágil **SCRUM**
-- Análise de requisitos
-- Desenvolvimento **Front-end** e **Back-end**
-- Design de interfaces
-- Integração de **APIs** e **Banco de Dados**
+## 🗓️ Cronograma <a name="cronograma"></a>
+| Entrega              | Período               | Status         | Relatório                 |
+|----------------------|-----------------------|----------------|---------------------------|
+| **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
+| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)   |
+| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
+| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
+| **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
 
-## 🗓️ Cronograma das Sprints <a name="cronograma-das-sprints"></a>
-| Sprint       | Previsão      | Status           |
-|--------------|---------------|------------------|
-| **Kick Off** | 24/02/2025 a 28/02/2025   | ✅ Concluído     |
-| **Sprint 1** | 10/03/2025 a 30/03/2025   | ✅ Concluído     |
-| **Sprint 2** | 07/04/2025 a 27/04/2025   | ⏳ A fazer       |
-| **Sprint 3** | 05/05/2025 a 25/05/2025   | ⏳ A fazer       |
-| **Feira de Soluções** | 29/05/2025       | ⏳ A fazer       |  
-
+---
 
 ## 📊 Product Backlog  <a name="product-backlog"></a>
-## 📋 Product Backlog <a name="product-backlog"></a>
 
 | Ranking | Prioridade | User Story | Estimativa (1-100) | Sprint | **Req. do Parceiro** |
 |---------|------------|------------|--------------------|--------|----------------------|
@@ -57,65 +43,55 @@ O projeto integra conhecimentos aprendidos em sala, incluindo:
 | **13** | **Baixa** | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45** | Sprint 3 | RF-01 |
 | **14** | **Baixa** | Como empresa patrocinadora, quero aplicar filtros como estado, idade, escolaridade e renda familiar para encontrar usuários compatíveis com o meu programa de patrocínio. | **45** | Sprint 3 | RF-08 |
 
+------
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-### Sprint 1
-- Criação de **mockup**.
-- Desenvolvimento do **HTML/CSS responsivos**.
-- Criação dos principais componentes visuais dos **Dashboards**.
-- Modelagem do **Banco de Dados**.
-- Conexão entre **Front-end** e **Backend**.
+[Visualizar Sprint Backlog](./docs/entrega/SprintBacklog-sprint2.pdf)
 
-### Sprint 2
-- Criação do(s) novo(s) **Wireframe(s)**
-- Remodelagem do **Banco de Dados**
-- Desenvolvimento da(s) **nova(s) tela(s)**
-- Criação da **API Rest** para consulta de dados.
-- Conexão entre **Front-End** e **Banco de Dados** via API.
-- Criação de **gráficos básicos** para exibição de métricas.
-- Testes da **API**.
+------
 
-### Sprint 3
-- Implementação de **Filtros e Segmentações**
-- Refinamento do **Design**.
-- Melhoria da **responsividade** em diferentes dispositivos.
-- Criação do **Manual do Usuário**.
-- Melhoria de **performance** e tempo de carregamento.
-- **Ajustes finais**.
+## 📄 Documentos <a name="documentos"></a>
+- 📃 **DoD** (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
+- 📌 **DoR** (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entrega/DoR-sprint2.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entrega/SprintBacklogsprint2.pdf)
+- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
-## ✅ Definition of Ready (DoR) <a name="definition-of-ready-dor"></a>
+------
 
-Para que uma tarefa esteja pronta para ser desenvolvida, os seguintes critérios devem ser atendidos:
+## 🎨 Protótipo & Mockups <a name="prototipo"></a>
+Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
-### 1. Artefatos Necessários
-- **Briefing Estruturado** – O contexto e os objetivos da API devem estar documentados.
-- **User Story detalhada** – A funcionalidade deve estar descrita no formato correto:  
-  *Como [usuário], quero [ação] para que [benefício].*
-- **Critérios de Aceitação** – Definição clara do que deve ser entregue para que a User Story seja aceita.
-- **Wireframes e Protótipos** – Se a funcionalidade envolver interação visual, os layouts devem estar definidos.
-- **Modelos de Dados e Esquema do Banco** – As tabelas, relacionamentos e estrutura do banco de dados devem estar definidos e aprovados.
-- **Regras de Negócio Documentadas** – Todas as regras de operação da funcionalidade devem estar descritas.
+<div align="center">
+  <img src="./docs/entrega/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
+</div>
 
-### 2. Regras Técnicas Definidas
-- **Endpoint bem especificado**:
-  - URL RESTful definida (ex: `GET /usuarios/{id}`).
-  - Método HTTP correto (`GET`, `POST`, `PUT`, `DELETE`).
-  - Formato da requisição e resposta **JSON** especificado.
-- **Tratamento de Erros Definido** – Respostas esperadas para erros (`400 Bad Request`, `404 Not Found`, etc.).
-- **Controle de Versionamento** – Definir versões da API (exemplo: `v1/usuarios`).
-- **Performance e Eficiência** – Definir limites de requisição e evitar sobrecarga de dados.
+------
 
-### 3. Testes e Validação
-- **Cenários de Teste Criados** – Casos normais e de exceção para validar a funcionalidade.
-- **Dados para Testes Disponíveis** – Exemplo: usuários de teste cadastrados no banco de dados.
-- **Plano de Testes de Integração** – Garantir que os endpoints funcionam bem com outros sistemas.
+## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
 
-### 4. Aprovação e Alinhamento
-- A equipe de desenvolvimento e o Product Owner revisaram e concordam que a funcionalidade pode ser desenvolvida.
-- O item foi incluído no **Sprint Backlog** e tem estimativa de esforço definida.
-- O desenvolvedor responsável compreendeu o escopo da tarefa e tirou dúvidas antes de iniciar.
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</div>
 
-## **👥 Equipe** <a name="equipe"></a>
+
+------
+
+## 👥 Equipe <a name="equipe"></a>
+
+<div align="center">
+  <img src="./foto-grupo.jpeg" alt="Foto da Equipe The Devs Department" style="border-radius: 8px;">
+</div>
 
 | Função           | Nome                  | Links                                                                                                                                      |  
 |-------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|  
