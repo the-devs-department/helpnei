@@ -62,7 +62,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
 <div align="center">
-  <img src="./docs/entrega/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
+  <img src="Helpnei.png" alt="Mockup do Dashboard Helpnei" width="600">
 </div>
 
 ------
