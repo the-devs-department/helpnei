@@ -53,7 +53,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 ## 📄 Documentos <a name="documentos"></a>
 - 📃 **DoD** (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
 - 📌 **DoR** (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entrega/DoR-sprint2.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entrega/SprintBacklogsprint2.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entrega/Sprint%20Backlog.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
 ------
