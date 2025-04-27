@@ -62,8 +62,18 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
 <div align="center">
-  <img src="Helpnei.png" alt="Mockup do Dashboard Helpnei" width="600">
+  <img src="docs/sprints/sprint2/MockupC-S2.png" alt="Mockup da Página de Cadastro" width="500px">
 </div>
+
+<div align="center">
+  <img src="docs/sprints/sprint2/MockupSE-S2.png" alt="Mockup da Página de Empresas" width="500px">
+</div>
+
+<div align="center">
+  <img src="docs/sprints/sprint2/MockupD-S2.png" alt="Mockup da Página de Empresas" width="500px">
+</div>
+
+
 
 ------
 
@@ -107,3 +117,6 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
 
 ---
 
+## 🎥 Vídeo do Projeto em Funcionamento
+
+- [🔗 Vídeo no YouTube](https://youtu.be/bwsLHyKiF4Y)

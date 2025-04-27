@@ -40,6 +40,10 @@ Com isso, nessa sprint, foi possível entregar as novas telas totalmente funcion
   <img src="./MockupSE-S2.png" alt="Mockup da Página de Empresas" width="500px">
 </div>
 
+<div align="center">
+  <img src="./MockupD-S2.png" alt="Mockup da Página de Empresas" width="500px">
+</div>
+
 ---
 
 ## 📊 Burndown Chart
