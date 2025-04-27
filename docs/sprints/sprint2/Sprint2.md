@@ -49,7 +49,7 @@ Com isso, nessa sprint, foi possível entregar as novas telas totalmente funcion
 ## 📊 Burndown Chart
 
 <div align="center">
-  <img src="BurndownS2.jpg" alt="Burndown da Sprint 2" width="500px">
+  <img src="BurndownS2.png" alt="Burndown da Sprint 2" width="500px">
 </div>
 
 ---
