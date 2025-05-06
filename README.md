@@ -18,8 +18,8 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 |----------------------|-----------------------|----------------|---------------------------|
 | **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
 | **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint1/Sprint1.md)   |
-| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](docs/sprints/sprint2/Sprint2.md)      |
-| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
+| **Sprint 2**         | 07/04 – 27/04/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint2/Sprint2.md)      |
+| **Sprint 3**         | 05/05 – 25/05/2025    | ⏳ Em andamento  | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
 | **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
 
 ---
