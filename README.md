@@ -19,7 +19,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 | **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
 | **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint1/Sprint1.md)   |
 | **Sprint 2**         | 07/04 – 27/04/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint2/Sprint2.md)      |
-| **Sprint 3**         | 05/05 – 25/05/2025    | ⏳ Em andamento  | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
+| **Sprint 3**         | 05/05 – 25/05/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint3/Sprint3.md)      |
 | **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
 
 ---
@@ -54,7 +54,7 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 - 📃 **DoD** (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
 - 📌 **DoR** (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entrega/DoR-sprint2.pdf)
 - 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entrega/Sprint%20Backlog.pdf)
-- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
+- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/sprints/sprint3/ManualDoUsuario.pdf)
 
 ------
 
