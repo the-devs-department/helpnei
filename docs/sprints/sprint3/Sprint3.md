@@ -40,7 +40,7 @@ Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa
 ## 🎨 Design da Sprint
 
 <div align="center">
-  <img src="docs/sprints/sprint3/MockupFiltros-S3.png" alt="Mockup da Tela de Filtros" width="500px">
+  <img src="./LoginMockup.jfif" alt="Mockup da Tela de Filtros" width="500px">
 </div>
 
 ---
@@ -49,17 +49,19 @@ Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa
 
 > 📈 **Observação:** O tempo gasto nesta sprint foi superior ao planejado, devido a atrasos causados por avaliações acadêmicas e entregas ocorridas durante a primeira e segunda semana.
 
-<div align="left">
-  <img src="" alt="Burndown da Sprint 3" width="700px">
+<div align="center">
+  <img src="./BurndownS3.jfif" alt="Burndown da Sprint 3" width="700px">
 </div>
 
 ---
 
 ## 📎 Documentos da Sprint
 
-- [📄 Definition of Ready (DoR) – Sprint 3]()  
-- [📄 Definition of Done (DoD) – Sprint 3]()  
-- [📄 Manual do Usuário – Versão 1.0]()
+- [📄 Definition of Ready (DoR) – Sprint 3](./DoR%-%Sprint%3)  
+- [📄 Definition of Done (DoD) – Sprint 3](./DoDS3.pdf)  
+- [📄 Manual do Usuário – Versão 1.0](./ManualDoUsuario.pdf)
+- [📄 Sprint Backlog](./Sprint%Backlog%-S3.pdf)
+- [📄 Product Backlog](./S3PRoductBacklog.pdf)
 
 ## 🎥 Vídeo do Projeto em Funcionamento
 
