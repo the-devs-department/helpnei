@@ -57,11 +57,11 @@ Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa
 
 ## 📎 Documentos da Sprint
 
-- [📄 Definition of Ready (DoR) – Sprint 3](https://raw.githubusercontent.com/the-devs-department/helpnei/SPRINT-3/docs/sprints/sprint3/DoR-S3.pdf)  
-- [📄 Definition of Done (DoD) – Sprint 3](https://raw.githubusercontent.com/the-devs-department/helpnei/SPRINT-3/docs/sprints/sprint3/DoDS3.pdf)  
-- [📄 Manual do Usuário – Versão 1.0](https://raw.githubusercontent.com/the-devs-department/helpnei/SPRINT-3/docs/sprints/sprint3/ManualDoUsuario.pdf)  
-- [📄 Sprint Backlog](https://raw.githubusercontent.com/the-devs-department/helpnei/SPRINT-3/docs/sprints/sprint3/Sprint-Backlog-S3.pdf)  
-- [📄 Product Backlog](https://raw.githubusercontent.com/the-devs-department/helpnei/SPRINT-3/docs/sprints/sprint3/S3ProductBacklog.pdf)  
+- [📄 Definition of Ready (DoR) – Sprint 3](https://github.com/the-devs-department/helpnei/blob/SPRINT-3/docs/sprints/sprint3/DoR-S3.pdf)  
+- [📄 Definition of Done (DoD) – Sprint 3](https://github.com/the-devs-department/helpnei/blob/SPRINT-3/docs/sprints/sprint3/DoDS3.pdf)  
+- [📄 Manual do Usuário – Versão 1.0](https://github.com/the-devs-department/helpnei/blob/SPRINT-3/docs/sprints/sprint3/ManualDoUsuario.pdf)  
+- [📄 Sprint Backlog](https://github.com/the-devs-department/helpnei/blob/SPRINT-3/docs/sprints/sprint3/Sprint-Backlog-S3.pdf)  
+- [📄 Product Backlog](https://github.com/the-devs-department/helpnei/blob/SPRINT-3/docs/sprints/sprint3/S3ProductBacklog.pdf)  
 
 ## 🎥 Vídeo do Projeto em Funcionamento
 
