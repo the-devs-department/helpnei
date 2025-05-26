@@ -29,19 +29,20 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 | Ranking | Prioridade | User Story | Estimativa (1-100) | Sprint | **Req. do Parceiro** |
 |---------|------------|------------|--------------------|--------|----------------------|
 | **1** | **Alta** | Como Administrador, quero acessar um painel de controle básico, onde posso visualizar os principais indicadores do sistema. | **40** | Sprint 1 | RF-01 |
-| **2** | **Alta** | Como Administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60** | Sprint 1 | RNF-02 |
+| **2** | **Alta** | Como administrador, quero que o sistema tenha um banco de dados estruturado para armazenar informações sobre usuários e lojas. | **60** | Sprint 1 | RNF-02 |
 | **3** | **Alta** | Como usuário, quero preencher um formulário de inscrição com meus dados pessoais e socioeconômicos para participar do programa de patrocínio. | **35** | Sprint 2 | RF-05 |
-| **4** | **Alta** | Como usuário, quero visualizar uma lista de empresas patrocinadoras disponíveis para mim, incluindo logo e detalhes relevantes, para escolher a melhor opção. | **30** | Sprint 2 | RF-06 |
+| **4** | **Alta** | Como usuário, quero visualizar uma lista de empresas patrocinadoras disponíveis para meu perfil, incluindo logo e detalhes relevantes, para escolher a melhor opção. | **30** | Sprint 2 | RF-06 |
 | **5** | **Alta** | Como empresa patrocinadora, quero definir critérios para selecionar os usuários que desejo apoiar, para garantir que o patrocínio atenda ao meu público-alvo. | **45** | Sprint 2 | RF-07 |
 | **6** | **Média** | Como patrocinador, quero visualizar o número total de lojas criadas, para entender a abrangência da plataforma. | **40** | Sprint 2 | RF-02 |
 | **7** | **Média** | Como patrocinador, quero visualizar o número de usuários impactados para medir o alcance do projeto. | **40** | Sprint 2 | RF-03 |
 | **8** | **Média** | Como usuário, quero acessar uma página onde posso visualizar e escolher entre diferentes empresas patrocinadoras, para selecionar aquela que mais se alinha ao meu perfil e interesses. | **40** | Sprint 2 | RF-04 |
-| **9** | **Alta** | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40** | Sprint 3 | RF-10 |
-| **10** | **Alta** | Como administrador, quero um gráfico mostrando o engajamento e uso da plataforma, permitindo acompanhar tendências de crescimento. | **85** | Sprint 3 | RF-11 |
-| **11** | **Alta** | Como administrador, quero aplicar filtros nos indicadores do dashboard, para visualizar dados específicos e facilitar a análise. | **45** | Sprint 3 | RF-09 |
-| **12** | **Média** | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **40** | Sprint 3 | RNF-01 |
-| **13** | **Baixa** | Como patrocinador, quero que a interface do dashboard seja intuitiva e com design melhorado, incluindo cores nos cards para facilitar a interpretação dos dados. | **45** | Sprint 3 | RF-01 |
-| **14** | **Baixa** | Como empresa patrocinadora, quero aplicar filtros como estado, idade, escolaridade e renda familiar para encontrar usuários compatíveis com o meu programa de patrocínio. | **45** | Sprint 3 | RF-08 |
+| **9** | **Alta** | Como administrador, quero visualizar a distribuição geográfica das lojas e usuários para entender onde a plataforma tem maior impacto. | **40** | Sprint 3 | RF-08 |
+| **10** | **Alta** | Como administrador, visualizar no dashboard o engajamento e uso da plataforma, permitindo acompanhar tendências de crescimento. | **85** | Sprint 3 | RF-09 |
+| **11** | **Alta** | Como administrador, quero alimentar o banco de dados com informações de empresas para visualizar no dashboard. | **40** | Sprint 3 | RF-09 |
+| **12** | **Alta** | Como usuário, quero completar meu cadastro de forma prática, selecionando meu estado e informações relevantes. | **45** | Sprint 3 | RF-10 |
+| **13** | **Alta** | Como usuário, quero realizar meu login, para poder escolher qual empresa desejo ter patrocínio, de acordo com meu perfil. | **45** | Sprint 3 | RF-10 |
+| **14** | **Média** | Como usuário, quero poder acessar um manual de uso do sistema para entender melhor suas funcionalidades. | **40** | Sprint 3 | RNF-01 |
+| **15** | **Baixa** | Como empresa patrocinadora, quero aplicar filtros como estado, idade, escolaridade e renda familiar para encontrar usuários compatíveis com o meu programa de patrocínio. | **45** | Sprint 3 | RF-07 |
 
 ------
 
