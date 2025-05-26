@@ -57,11 +57,11 @@ Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa
 
 ## 📎 Documentos da Sprint
 
-- [📄 Definition of Ready (DoR) – Sprint 3](./DoR%-%Sprint%3)  
+- [📄 Definition of Ready (DoR) – Sprint 3](./DoR%20-%20Sprint%203.pdf)  
 - [📄 Definition of Done (DoD) – Sprint 3](./DoDS3.pdf)  
 - [📄 Manual do Usuário – Versão 1.0](./ManualDoUsuario.pdf)
-- [📄 Sprint Backlog](./S3-SBacklog.pdf)
-- [📄 Product Backlog](./S3PRoductBacklog.pdf)
+- [📄 Sprint Backlog](./S3-SBacklog.PDF)
+- [📄 Product Backlog](./S3ProductBacklog.pdf)
 
 ## 🎥 Vídeo do Projeto em Funcionamento
 
